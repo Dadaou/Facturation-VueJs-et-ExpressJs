@@ -1,4 +1,4 @@
-# facturation-project
+# projet facturation
 
 ## Project setup
 ```
